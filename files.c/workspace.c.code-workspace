@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "WORK PLACE",
+			"path": ".."
+		},
+		{
+			"name": "assignment1",
+			"path": "..\\..\\assignment1"
+		},
+		{
+			"name": "c++",
+			"path": "..\\..\\c++"
+		},
+		{
+			"path": "..\\..\\java"
+		},
+		{
+			"path": "..\\..\\collage"
+		}
+	],
+	"settings": {}
+}
